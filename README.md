@@ -12,7 +12,8 @@ These are some of the technologies and tools I use:
 
 - Database
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+
 
 ## 📞 Contact Me:
 <div align="center"> 
