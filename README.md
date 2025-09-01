@@ -8,7 +8,7 @@ These are some of the technologies and tools I use:
 
 - Tools and Plataforms
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=pycharm,vscode,)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=pycharm,vscode,visualstudio)](https://skillicons.dev)
 
 - Database
 
