@@ -8,14 +8,11 @@ These are some of the technologies and tools I use:
 
 - Tools and Plataforms
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=pycharm)](https://skillicons.dev)
-[![Apache NetBeans](https://netbeans.apache.org/images/apache-netbeans.svg)](https://netbeans.apache.org/front/main/index.html)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=pycharm,vscode,)](https://skillicons.dev)
 
 - Database
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
-
 
 ## 📞 Contact Me:
 <div align="center"> 
