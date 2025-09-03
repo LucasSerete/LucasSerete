@@ -10,13 +10,25 @@ These are some of the technologies and tools I use:
 </a>
 
 
+
 - Tools and Plataforms
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=pycharm,vscode,visualstudio)](https://skillicons.dev)
+<a href="https://www.microsoft.com/microsoft-365/access" title="Microsoft Access">
+  <img
+    src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Microsoft_Office_Access_%282019-present%29.svg"
+    alt="Microsoft Access"
+    height="44"
+    style="padding:8px;background:#0f172a;border-radius:12px;margin-right:8px;vertical-align:middle;">
+</a>
+
+
 
 - Database
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+
+
 
 
 ## 📞 Contact Me:
