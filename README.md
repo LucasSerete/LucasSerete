@@ -27,6 +27,9 @@ These are some of the technologies and tools I use:
 - Database
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+<a href="https://sqlitebrowser.org/" title="DB Browser for SQLite">
+  <img src="./assets/icons/db-browser.png" alt="DB Browser for SQLite" height="44">
+</a>
 
 
 
