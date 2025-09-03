@@ -5,8 +5,10 @@ These are some of the technologies and tools I use:
 - Back-End
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=python,dotnet)](https://skillicons.dev) 
-[![VBA Logo](https://upload.wikimedia.org/wikipedia/commons/5/5f/Microsoft_Visual_Basic_for_Applications_logo.svg)](https://learn.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office)
-[![VB.NET Logo](https://upload.wikimedia.org/wikipedia/commons/0/05/VB.NET_Logo.svg)](https://docs.microsoft.com/dotnet/visual-basic/)
+<a href="https://learn.microsoft.com/dotnet/visual-basic/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg" alt="VB.NET" width="48"/>
+</a>
+
 
 - Tools and Plataforms
 
