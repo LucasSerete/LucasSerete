@@ -6,7 +6,7 @@ These are some of the technologies and tools I use:
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=python,dotnet)](https://skillicons.dev) 
 <a href="https://learn.microsoft.com/dotnet/visual-basic/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg" alt="VB.NET" width="48"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg" alt="VB.NET" width="48"/>
 </a>
 
 
@@ -16,7 +16,7 @@ These are some of the technologies and tools I use:
 [![Minhas Habilidades](https://skillicons.dev/icons?i=pycharm,vscode,visualstudio)](https://skillicons.dev)
 <a href="https://www.microsoft.com/microsoft-365/access" title="Microsoft Access">
   <img
-    src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Microsoft_Office_Access_%282019-present%29.svg"
+    src="https://upload.wikimedia.org/wikipedia/commons/7/76/Microsoft_Office_Access_%282025-present%29.svg"
     alt="Microsoft Access"
     height="44"
     style="padding:8px;background:#0f172a;border-radius:12px;margin-right:8px;vertical-align:middle;">
